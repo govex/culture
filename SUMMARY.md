@@ -9,3 +9,4 @@
   * [Promote core practices and behaviors](Practices.md)
   * [Deal with detractors](Detractors.md)
   * [Measure progress](Measure.md)
+* [Sources](Sources.md)
