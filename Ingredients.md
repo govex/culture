@@ -20,10 +20,11 @@ One of the most important ingredients to focus on is **talent development**. Gov
 * Create career paths and metorship programs for your professional analysts, especially the highly technical ones. GIS specialists often complain about the limited career path available to them, so carve out a pathway inside your organization that make it clear you care about the long-term growth of every analyst. 
 
 Once you've identified the internal all-stars, get serious about attracting 21st Century talent. Government halls are already filled with Political Science. It is time to add Computer Science and Data Science to the mix, and not just in the IT Department. Computer Scientists and Data Scientists know how to use computers to generate insights, and as government goes digital, these skills are critical. Consider the following tactics when attracting outside talent:
+* First and foremost, look for intellectual curiosity, not just quantitative and techical skills. All the computer skills in the world can't replace an inquisitive human brain.
 * Ensure job postings for analytst positions include computer programming experience 
 * Look for dexterity with multiple analytical and statistical packages. Microsoft Excel is not enough. Look for experience using R, Stata, SPSS, MatLab, or MiniTab.
-* Look for intellectual curiosity, not just quantitative skills. All the computer skills in the world can't replace an inquisitive human brain.
 * Prioritize communication skills. Generating insights is not enough. Analysts must communicate them visually and verbally. Look for individuals who have executive briefing skills and/or demonstrated experience in data visualization. 
+* Given all potential analysts a test. Give them a dataset and a few vague questions to answer, questions that inspire followups and require each analyst to think about how they would approach the analysis to find the answers. 
 
 
 
