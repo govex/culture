@@ -19,3 +19,6 @@ The content in this guide was derived from ideas and contribtuons from the autho
 * "[Turning the Local Government Ship Starboard](https://cms.leoncountyfl.gov/Portals/0/county_admin/Published%20Articles/PMStarboardArticleVL.pdf)," *ICMA-Public Management*, Vincent Long, January/February 2014.
 
 * "[Fostering a Data Driven Culture](http://www.economistinsights.com/technology-innovation/analysis/fostering-data-driven-culture)," *Economist Intelligence Unit*, Sponsored, February 2013. 
+
+* "[Diagnosing and Changing Organizational Culture](http://www.researchgate.net/file.PostFileLoader.html?id=559077c25e9d9768f68b4570&assetKey=AS%3A271750183489537%401441801700739)," Cameron, Kim S. and Quinn, Robert E. (1999), New York: Addison-Wesley.
+
