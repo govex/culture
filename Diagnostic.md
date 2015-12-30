@@ -50,3 +50,17 @@ Who is your ultimate stakeholder?
     * Feedback
     * Frequency
     * Remediation/Accountability
+
+
+##Looking for a more rigorous approach?
+
+There is [a culture diagnostic tool](http://www.researchgate.net/file.PostFileLoader.html?id=559077c25e9d9768f68b4570&assetKey=AS%3A271750183489537%401441801700739) developed by Kim Cameron and Robert Quinn in 2006. It essentially states there are four type of organizational cultures, which exist along a competing values framework. The competing values are:
+* Flexibility & Discretion vs. Stability & Control
+* Internal Focus & Integration vs. External Focus & Differentiation
+
+Using these values, Cameron and Quinn group organizations into four cultural categories depending on their results:
+* **Clan Culture:** collaborative, friendly, teamwork abounds, colleagues are like family, leaders are mentors, emphsasizes loyalty, tradition, cohesion and concern for people. 
+* **Adhocracy Culture:** creative, dynamic, entrepaneurial, cutting edge, risk-taking, initiative and freedom are encouraged, being an industry leader is important
+* **Market Culture:** competitive, results and goal oriented, hard-charging, productive, concerned with reuputation, success, and winning
+* **Hierarchy Culture:** controlled, structured, formal, rules and prodecudered empasized, dependability, stablility, performance and efficient operations are prioritized
+
