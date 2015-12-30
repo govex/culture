@@ -22,3 +22,4 @@ The content in this guide was derived from ideas and contribtuons from the autho
 
 * "[Diagnosing and Changing Organizational Culture](http://www.researchgate.net/file.PostFileLoader.html?id=559077c25e9d9768f68b4570&assetKey=AS%3A271750183489537%401441801700739)," Cameron, Kim S. and Quinn, Robert E. (1999), New York: Addison-Wesley.
 
+* "[Four Organizational Culture Types](http://www.canfieldco.com/uploads/Four_Organizational_Culture_Types.pdf)," Bruce M. Tharp, April 20009. 
