@@ -18,3 +18,4 @@ The content in this guide was derived from ideas and contribtuons from the autho
 
 * "[Turning the Local Government Ship Starboard](https://cms.leoncountyfl.gov/Portals/0/county_admin/Published%20Articles/PMStarboardArticleVL.pdf)," *ICMA-Public Management*, Vincent Long, January/February 2014.
 
+* "[Fostering a Data Driven Culture](http://www.economistinsights.com/technology-innovation/analysis/fostering-data-driven-culture)," *Economist Intelligence Unit*, Sponsored, February 2013. 
