@@ -1,4 +1,4 @@
-# Deal with detractors
+# Deal with Detractors
 
 Dealing with detractors does not require firing them. In fact, the exercise of power should be the last tool in the toolbox. Instead, anticipate resistance and account for it in your execution strategy. An intractable department might not be moved by a City Manager’s motivational speech, but if a competing department gets more money in the budgeting process or more positive attention in the media because they practiced one of the model behaviors, then the stubborn department might pay closer attention in the long run. 
 
