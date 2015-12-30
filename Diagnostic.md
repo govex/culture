@@ -1,4 +1,4 @@
-#Diagnosing your culture
+#Diagnosing Culture
 
 ###First, identify the culture you want.
 Write it down and note the differences as you complete this diagnostic.
