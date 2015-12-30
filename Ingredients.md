@@ -7,13 +7,23 @@ To change culture, don’t focus exclusively on it. In fact, don’t describe yo
 | Organizational Charts | Cross-functional teaming    |
 |   Roles and Responsibilities                           |  Behaviors & Leading by example                    |
 |     Policies and Procedures                         |  Peer-to-Peer networks                    |
-|      Professional development programs                        |     Motivational Speakers                 |
+|      Talent development                        |     Motivational Speakers                 |
 |       Organizational Communications                       |       Spotlights on Performance               |
 |        Compensation, Benefits & Awards                      |  Communities of Practice                    |
 |          Performance Management Systems                    |      Space and Environmental Changes                |
 
 
 
+One of the most important ingredients to focus on is **talent development**. Governments need the best and brightest working on society's toughest problems, but struggle to identify those with advanced skills in data and analytics. Most public policy and public adminstration graduates who fill Program Analyst positions are adept with Microsoft Excel and statistical packages like SPSS and Stata, but they lack computer programming and database skills. GIS Specialists, which are also common in government, have more advanced data management and computer programming skills, but are usually relegated to mapmaking functions. To identify existing data and analytics talent in your government, consider one of the following tactics:
+* Create an analytics community of practice inside the organziation and market it to anyone who has a passion for the use of data to help solve problems. Convene them through brown bags, panel discussions, or group projects. Let them present their work and bounce ideas off of one another. This will help surface the hidden talent and create space for collaboration. 
+* Create a pipeline of analytics projects that cut across programs and ask people to apply to be a member of a specialized team who works on them. Make the application progress fairly rigorous, so analysts have to demonstrate all of their skills before starting the project. Giving these all-stars a challenging project to work on will motivate them to make larger contributions to your organizaiton. 
+* Create career paths and metorship programs for your professional analysts, especially the highly technical ones. GIS specialists often complain about the limited career path available to them, so carve out a pathway inside your organization that make it clear you care about the long-term growth of every analyst. 
+
+Once you've identified the internal all-stars, get serious about attracting 21st Century talent. Government halls are already filled with Political Science. It is time to add Computer Science and Data Science to the mix, and not just in the IT Department. Computer Scientists and Data Scientists know how to use computers to generate insights, and as government goes digital, these skills are critical. Consider the following tactics when attracting outside talent:
+* Ensure job postings for analytst positions include computer programming experience 
+* Look for dexterity with multiple analytical and statistical packages. Microsoft Excel is not enough. Look for experience using R, Stata, SPSS, MatLab, or MiniTab.
+* Look for intellectual curiosity, not just quantitative skills. All the computer skills in the world can't replace an inquisitive human brain.
+* Prioritize communication skills. Generating insights is not enough. Analysts must communicate them visually and verbally. Look for individuals who have executive briefing skills and/or demonstrated experience in data visualization. 
 
 
 
