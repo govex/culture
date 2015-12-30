@@ -1,0 +1,7 @@
+#Create a Compelling Vision of the Culture you Want (but account for the culture you have).
+
+If the leadership team has not already committed to managing with data, then begin with a leadership vision of the future. Some describe this as a leadership post card: a simple compelling story of where you want the organization to go. For example, a Mayor may routinely describe her vision to her leadership team:
+
+>In the City of Springfield, good is never good enough. We deliver the best services to residents because we constantly collaborate and use data to figure out how to outperform ourselves. 
+
+Do not describe the culture you want in vague terms (e.g. more innovative, collaborative, customer centric). Instead, be specific about what your culture should feel like from within (e.g. promote innovation through diverse teams collaborating on city-wide projects). Ideally a short compelling vision like this aligns with existing organizational culture by playing to its strengths (i.e. employees who put a premium on customer service will want to see residents mentioned in the vision statement). To craft an aligned and aspirational cultural vision, seek input from employees across the organization—focusing on those who are widely respected and informed about the current culture. Get their input on the vision as well as their views on how the organization would implement changes to realize that vision. Coherence among your strategy, culture and performance priorities is critical.
