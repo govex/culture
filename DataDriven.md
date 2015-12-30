@@ -21,4 +21,5 @@ Compared to this reality, a “data-driven culture” seems appealing. However, 
 * The organization values, leverages and understands the difference between quantitative and qualitative information
 * The government leverages decentralized analytical teams across programs, but also maintains a centralized analytical unit for enterprise-level analysis and coordination 
 * The government’s reliance on external consultants is proportional to their maturity with data and analytics. 
+<img src="https://raw.githubusercontent.com/centerforgov/culture/master/Outsourcing.jpg">
 
