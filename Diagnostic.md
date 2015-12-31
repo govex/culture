@@ -60,7 +60,4 @@ Many governments identify as a Hierarchy Culture and aspire to be different. But
     * Remediation/Accountability
 
 
-##Looking for a more rigorous approach?
-
-
 
