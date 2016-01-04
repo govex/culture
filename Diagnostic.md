@@ -1,6 +1,6 @@
 #Diagnosing Culture
 
-There is [a culture diagnostic tool](http://www.researchgate.net/file.PostFileLoader.html?id=559077c25e9d9768f68b4570&assetKey=AS%3A271750183489537%401441801700739) developed by Kim Cameron and Robert Quinn in 2006. It essentially states there are four type of organizational cultures, which exist along a *competing values framewor*. The competing values are:
+There is [a culture diagnostic tool](http://www.researchgate.net/file.PostFileLoader.html?id=559077c25e9d9768f68b4570&assetKey=AS%3A271750183489537%401441801700739) developed by Kim Cameron and Robert Quinn in 2006. It essentially states there are four type of organizational cultures, which exist along a *competing values framework*. The competing values are:
 * Flexibility & Discretion vs. Stability & Control
 * Internal Focus & Integration vs. External Focus & Differentiation
 
