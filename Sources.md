@@ -1,6 +1,6 @@
 #Sources
 
-The content in this guide was derived from ideas and contribtuons from the authors of each article listed below, along with the personal experiences and perspectives of staff from the Center for Government Excellence.
+The content in this guide was derived from ideas and contributions from the authors of each article listed below, along with the personal experiences and perspectives of staff from the Center for Government Excellence.
 
 * "[8 Tips for Changing Culture in the Federal Government](https://www.govloop.com/community/blog/8-tips-culture-change/)," *GovLoop*, Heather Kerrigan, March 12, 2015
 
