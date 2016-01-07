@@ -8,7 +8,7 @@ Using these values, Cameron and Quinn group organizations into four cultural cat
 * **Clan Culture:** collaborative, friendly, teamwork abounds, colleagues are like family, leaders are mentors, emphsasizes loyalty, tradition, cohesion and concern for people. 
 * **Adhocracy Culture:** creative, dynamic, entrepaneurial, cutting edge, risk-taking, initiative and freedom are encouraged, being an industry leader is important
 * **Market Culture:** competitive, results and goal oriented, hard-charging, productive, concerned with reuputation, success, and winning
-* **Hierarchy Culture:** controlled, structured, formal, rules and prodecudered empasized, dependability, stablility, performance and efficient operations are prioritized
+* **Hierarchy Culture:** controlled, structured, formal, rules and procedures empasized, dependability, stablility, performance and efficient operations are prioritized
 
 ###First, identify the culture you want.
 Many governments identify as a Hierarchy Culture and aspire to be different. But it is important to be specific and articulate what kind of culture you want, so the differences become clear. As you complete a diagnostic process, make note of the differences between the culture you have and the one you want. 
@@ -28,7 +28,7 @@ Many governments identify as a Hierarchy Culture and aspire to be different. But
     * Do they more frequently talk about challenges than opportunities? Or is it the reverse?
     * Do they contribute to each other’s ideas or tear them down?
     * Do they talk about they way things used to be with nostalgia? Or do they talk about the way things could be with optimism?
-    * Can they explain why they do certain activities or why your programs operate the way they do? Or do they punt those answers to a person higher in the organization?
+    * Can they explain why they do certain activities or why your programs operate the way they do? Or do they put those answers to a person higher in the organization?
   * Conduct interviews with employees at all levels of the organization—focus on those who are well respected, informally influential, and attuned to the organization's culture. 
   * Ask everyone who they consider the ultimate stakeholder. The differences in perspectives will reveal cultural disconnects and opportunities for alignment around a common mission and vision. 
   * Interview stakeholders about their perceptions of the organization? Ask them about their experiences as a “customer” and write down the common words they use to describe those experiences.   
