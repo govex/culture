@@ -1,4 +1,4 @@
-# Promote core practices and behaviors, not just values
+# Promote Core Practices and Behaviors, Not Just Values
 
 When you diagnosed your culture, you identified practices and behaviors that contribute to your goals, and which are detracting. Create an awareness campaign for core practices and behaviors you want to see more of, highlighting how small but significant changes in behavior signal a shift in the right direction. For example, Chicago food inspectors are reducing food-borne illness by using data to identify high-risk restaurants for prioritized inspection. Celebrating their success internally is creating healthy competition inside the health department and signals that data-driven behaviors get rewarded. 
 
