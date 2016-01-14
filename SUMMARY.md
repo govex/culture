@@ -9,7 +9,7 @@
    * [Focus on Ingredients](Ingredients.md)
    * [Create a Compelling Vision](Vision.md)
    * [Promote Core Practices and Behaviors](Practices.md)
-   * [Deal with detractors](Detractors.md)
+   * [Deal with Detractors](Detractors.md)
    * [Measure progress](Measure.md)
 * [Sources](Sources.md)
 
