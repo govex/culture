@@ -1,4 +1,4 @@
-#What is Culture?
+#What is culture?
 
 There are many definitions of culture, but here is one that resonates with GovEx: **culture is the difference between what you tolerate and don’t tolerate.**
 
