@@ -7,7 +7,7 @@
 * [Influencing Culture](Influence.md)
    * [View Culture as an Advantage](Advantage.md)
    * [Focus on Ingredients](Ingredients.md)
-   * [Create a compelling vision](Vision.md)
+   * [Create a Compelling Vision](Vision.md)
    * [Promote core practices and behaviors](Practices.md)
    * [Deal with detractors](Detractors.md)
    * [Measure progress](Measure.md)
