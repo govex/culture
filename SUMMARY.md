@@ -5,7 +5,7 @@
    * [What is a data-driven culture?](DataDriven.md)
 * [Diagnosing Culture](Diagnostic.md)
 * [Influencing Culture](Influence.md)
-   * [View culture as an advantage](Advantage.md)
+   * [View Culture as an Advantage](Advantage.md)
    * [Focus on ingredients](Ingredients.md)
    * [Create a compelling vision](Vision.md)
    * [Promote core practices and behaviors](Practices.md)
