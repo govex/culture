@@ -10,6 +10,6 @@
    * [Create a Compelling Vision](Vision.md)
    * [Promote Core Practices and Behaviors](Practices.md)
    * [Deal with Detractors](Detractors.md)
-   * [Measure progress](Measure.md)
+   * [Measure Progress](Measure.md)
 * [Sources](Sources.md)
 
