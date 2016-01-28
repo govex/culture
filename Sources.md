@@ -23,3 +23,5 @@ The content in this guide was derived from ideas and contributions from the auth
 * Long, Vincent, "[Turning the Local Government Ship Starboard](https://cms.leoncountyfl.gov/Portals/0/county_admin/Published%20Articles/PMStarboardArticleVL.pdf)," *ICMA-Public Management*, January/February 2014.
 
 * Tharp, Bruce M., "[Four Organizational Culture Types](http://www.canfieldco.com/uploads/Four_Organizational_Culture_Types.pdf)," *Haworth*, April 2009. 
+
+* Davenport, Thomas H., "[Keeping Up with Your Quants](https://hbr.org/2013/07/keep-up-with-your-quants)," *Harvard Business Review*, July-August 2013.  
