@@ -40,9 +40,15 @@ People are motivated by different things: money, career improvement opportunitie
  5. Promotion  
  6. One-time bonus up to $500 or a quality step increase for group awards 
  7. Choosing item from a catalogue for 10-35 years every five years.
-
+ 
  *Documenting Success Stories*
 
 Documenting success stories shows how the city is making a difference in the lives of its residents. Not only does telling stories about the positive changes the city is making reinforce public trust and confidence, but also it is an important way of communicating to employees that their efforts are making a positive difference. It is a powerful way to demonstrate to the public and stakeholders the value of the city administration to residents. There are a variety of ways to document success stories that could inspire both current and future employees to give off their best, including internal publication platforms such as magazines, newsletters, city’s website, videos, podcasts, etc. Pick the method that most suitably tells the city’s success stories to the public and employees as well. 
 
 One of the ways Louisville, KY tells its success stories is by sharing the testimonials of their clients on its website. This provides a meaningful feedback to employees that their work are making impact and residents are appreciative. 
+
+*Acknowledging Coworkers’ Contributions*
+ 
+Coworkers are likely to identify the outstanding contributions of their peers which could otherwise be missed by managers. Coworkers spend more time with each other, know each other’s strengths, work products, and accomplishments. Celebrating the accomplishments of their peers is one meaningful way to inspire coworkers and help create a thriving, innovative. and productive work environment.
+
+The city of Murfreesboro, TN, STARS Employee Recognition Program allows employees to nominate their peers for awards. Research has shown that recognition from peers promotes respect, boost morale and improves productivity. 
