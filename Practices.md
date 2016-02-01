@@ -28,3 +28,15 @@ Instead of remarking “well done” or “good job,” communicate specifically
 
 A committee made up of employees representing various departments reviews nominations from coworkers and selects deserving awardees for public recognition. Awards range from a plaque, or write-up in the city’s employee newsletter (the Foghorn), to recognition at the city council meeting.
 
+*Rewarding Accomplishments*
+
+Practitioners of performance management believe that “what gets measured gets done,” similarly, “what gets rewarded gets repeated.” This means that people are likely to do more of what they can accomplish if they are rewarded for it. This motivates others to replicate behaviors that lead to rewards. In essence, you get more of the behavior you reward. When building a rewards program, think about the various stakeholder groups you are targeting and what could best motivate them. Reward employees who surpass expectations with meaningful benefits and incentive packages.
+
+People are motivated by different things: money, career improvement opportunities, time off, promotions. A reward can be “free” or cost a city a few dollars depending on the city’s budget and any legal constraints. The important part is connecting the reward to the employee’s motivations and celebrating accomplishments. The city of Flagstaff, Arizona has multiple award systems that reward hardworking employees with the following:
+ 1. Unique name tag
+ 2. Engraved award
+ 3. Monetary award
+ 4. Day off and paid vacation
+ 5. Promotion  
+ 6. One-time bonus up to $500 or a quality step increase for group awards 
+ 7. Choosing item from a catalogue for 10-35 years every five years.
