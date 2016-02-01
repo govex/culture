@@ -52,3 +52,14 @@ One of the ways Louisville, KY tells its success stories is by sharing the testi
 Coworkers are likely to identify the outstanding contributions of their peers which could otherwise be missed by managers. Coworkers spend more time with each other, know each other’s strengths, work products, and accomplishments. Celebrating the accomplishments of their peers is one meaningful way to inspire coworkers and help create a thriving, innovative. and productive work environment.
 
 The city of Murfreesboro, TN, STARS Employee Recognition Program allows employees to nominate their peers for awards. Research has shown that recognition from peers promotes respect, boost morale and improves productivity. 
+
+*Saying Thank You and Offering Praise for Excellent Service*
+
+Saying “thank you” to employees for work done well is a powerful validation of their efforts and an effective reward and recognition tool. Verbally and publicly praise employees for their contributions to achieving the goals of their departments.
+As part of its employee recognition program, the city of Modesto, CA verbally recognizes the achievements of employees in front of the Mayor and other staff. Praising employees publicly in the full view of their colleagues not only makes them feel proud about their achievements, but it also demonstrates to other people that hard work and good performance are both visible and appreciated.
+ 
+*Providing Opportunities for Advancement*
+ 
+Professional advancement is one of the most important elements for employee satisfaction. Recognizing the employees’ achievements by providing them with opportunities to advance their careers is a great way of motivating them. Advancement opportunities may include promotions, educational opportunities, tuition reimbursement, training courses, professional development programs, etc.
+ 
+Employees want to know what they are doing right,recognizing their work is an effective way of communicating success. An effective recognition is specific, sincere, immediate, and meaningful.   For instance, the city of Oak Point immediate recognition award as part of its employee recognition program rewards employees based upon their exceptional contribution to exceptional customer service, increased morale in workplace, job performance and community development. 
