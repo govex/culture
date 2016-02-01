@@ -21,10 +21,10 @@ Invariably, employees everywhere respond positively to sincere recognition for a
  
 Instead of remarking “well done” or “good job,” communicate specifically what employees have accomplished to merit the recognitions. For example, the human resources department of City of Daly, California initiated the “You are a star award” that recognizes employees for:
 
-*performances that enhance efficiency and effectiveness of their departments
-*going above and beyond their job descriptions to contribute to community service and development
-*providing outstanding achievements over time
-*exceptional participation in teams, special projects, and committees
+* performances that enhance efficiency and effectiveness of their departments
+* going above and beyond their job descriptions to contribute to community service and development
+* providing outstanding achievements over time
+* exceptional participation in teams, special projects, and committees
 
 A committee made up of employees representing various departments reviews nominations from coworkers and selects deserving awardees for public recognition. Awards range from a plaque, or write-up in the city’s employee newsletter (the Foghorn), to recognition at the city council meeting.
 
