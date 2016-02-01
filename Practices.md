@@ -15,8 +15,16 @@ Even though employers and employees may differ in their personal definitions of 
 * Saying Thank You and Offering Praise for Excellent Service
 * Providing Opportunities for Advancement
 
- *Documenting Success Stories*
+*Recognizing Achievements*
+ 
+Invariably, employees everywhere respond positively to sincere recognition for a job well done. Let city employees know what they are doing well. Let them know their contributions are valued and recognize the important role they play in the city’s administration. Genuinely acknowledge employees’ extraordinary achievements by recognizing and celebrating their accomplishments. For instance, Denver has an employee recognition program that recognizes individuals and teams that exemplify “STARS” (Service, Teamwork, Accountability, Respect and Safety) values. This program celebrates employees who supported practices that deliver a world class city by achieving one or more of the city's goals.
+ 
+Instead of remarking “well done” or “good job,” communicate specifically what employees have accomplished to merit the recognitions. For example, the human resources department of City of Daly, California initiated the “You are a star award” that recognizes employees for:
 
-Documenting success stories shows how the city is making a difference in the lives of its residents. Not only does telling stories about the positive changes the city is making reinforce public trust and confidence, but also it is an important way of communicating to employees that their efforts are making a positive difference. It is a powerful way to demonstrate to the public and stakeholders the value of the city administration to residents. There are a variety of ways to document success stories that could inspire both current and future employees to give off their best, including internal publication platforms such as magazines, newsletters, city’s website, videos, podcasts, etc. Pick the method that most suitably tells the city’s success stories to the public and employees as well. 
+*performances that enhance efficiency and effectiveness of their departments
+*going above and beyond their job descriptions to contribute to community service and development
+*providing outstanding achievements over time
+*exceptional participation in teams, special projects, and committees
 
-One of the ways Louisville, KY tells its success stories is by sharing the testimonials of their clients on its website. This provides a meaningful feedback to employees that their work are making impact and residents are appreciative. 
+A committee made up of employees representing various departments reviews nominations from coworkers and selects deserving awardees for public recognition. Awards range from a plaque, or write-up in the city’s employee newsletter (the Foghorn), to recognition at the city council meeting.
+
