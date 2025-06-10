@@ -1,7 +1,19 @@
-# Deal with Detractors
+# Dealing with Detractors: Inspire, Don’t Intimidate
 
-Dealing with detractors does not require firing them. In fact, the exercise of power should be the last tool in the toolbox. Instead, anticipate resistance and account for it in your execution strategy. An intractable department might not be moved by a city manager’s motivational speech. However, if a competing department gets more money in the budgeting process or more positive attention in the media because they practiced one of the model behaviors, then the stubborn department might pay closer attention in the long run. 
+Successfully managing cultural resistance doesn’t require removing people. In fact, exercising authority should be your **last resort**, not your first move. Instead, **anticipate resistance** and incorporate it into your strategy for execution. Some departments may not respond to inspirational speeches or leadership appeals—especially if they’ve seen leaders come and go. But they may start to take notice when a peer department receives **greater funding, public recognition, or leadership support** for demonstrating model behaviors that align with the culture shift.
 
-Embrace ever-changing leadership. Many managers frame changes as “coming from leadership,” but civil servants know leadership will always change. Embrace that change, and reframe the reason for initiatives as empowering the employee instead of the leader. Cite examples of how other jurisdictions used data and analysis to redesign programs to make them easier to implement (and defend) to any future leader. Examples from police and public health departments are easy to find.  
+#### **Reframe Change as Empowerment, Not Leadership-Driven Mandates**
 
-Make sure the employees see changes as something they are helping drive, not something they are subjected to. Don’t start by parachuting in a whole new team or reorganizing everything. Leverage the existing pockets of excellence who share your vision and bring in fresh eyes in strategic parts of the organization where progress is lacking. Remember, people react better to positive reinforcement than criticism, so aim for inspiration over intimidation. Along the way, don’t confuse team-building exercises with sustainable change and growth; and if you conclude someone is intractable after many attempts to shape his or her thinking, then move him or her along.
+Many initiatives are framed as “coming from leadership,” but civil servants understand that leadership changes frequently. To build lasting buy-in, **anchor change in employee empowerment**, not leadership authority. Make the case that embracing new approaches—like data-driven decision-making or service design—is about making programs easier to implement, adapt, and defend regardless of who’s in charge. Point to real examples from other jurisdictions—especially in public health, policing, or housing—where frontline insights helped redesign systems for greater effectiveness.
+
+#### **Make Change Feel Co-Owned**
+
+Employees are far more likely to embrace change when they feel like **drivers, not passengers**. Avoid sweeping reorganizations or parachuting in an entirely new team at the outset. Instead, identify and uplift existing **pockets of excellence**—teams or individuals already modeling the desired culture—and use them to demonstrate what's possible. Strategically bring in fresh perspectives where progress has stalled, but always integrate them respectfully into the existing culture.
+
+#### **Lead with Positive Reinforcement**
+
+Change sticks when it’s reinforced positively. Publicly celebrate examples of progress, encourage peer-to-peer recognition, and create visible rewards for the behaviors you want to scale. Avoid relying on criticism, which can entrench resistance. Aim to **inspire, not intimidate**.
+
+At the same time, be realistic: **team-building activities alone do not equal transformation**. Sustainable cultural change comes from aligning incentives, systems, behaviors, and storytelling—not just workshops or retreats.
+
+Finally, if after repeated, good-faith efforts to engage a detractor they remain unwilling to adapt, it may be time to help them transition out of the role or organization. Change requires persistence, not perfection—but it also requires the right people in the right seats.
