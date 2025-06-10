@@ -10,5 +10,5 @@
   * [Create a Compelling Vision](Vision.md)
   * [Promote Core Practices and Behaviors](Practices.md)
   * [Dealing with Detractors: Inspire, Don’t Intimidate](Detractors.md)
-  * [Measure Progress](Measure.md)
+  * [Measure Progress: Track What Matters and Listen to Who Matters](Measure.md)
 * [Sources](Sources.md)
