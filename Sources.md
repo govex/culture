@@ -10,10 +10,9 @@ The content in this guide is informed by the ideas and insights of the authors c
 * DiDonato, Tom, and Noelle Gill, "[Changing an Organization's Culture Without Resistance or Blame](https://hbr.org/2015/07/changing-an-organizations-culture-without-resistance-or-blame)," _Harvard Business Review_, July 2015.
 * Dowd, Alicia, "[Data Don't Drive](https://www.luminafoundation.org/files/publications/datadontdrive2005.pdf)," _Lumina Foundation for Education Research & University of Massachusetts_, December 2005.
 * Dutton, Gail, "
-* ," _Forbes_, June 2014.
 * "[Fostering a Data Driven Culture](http://www.economistinsights.com/technology-innovation/analysis/fostering-data-driven-culture)," _Economist Intelligence Unit_, February 2013.
 * Katzenbach, Jon R., Ilona Steffen, and Caroline Kronley, "[Culture Change That Sticks](https://hbr.org/2012/07/cultural-change-that-sticks)," _Harvard Business Review_, August 2012.
 * Kerrigan, Heather, "[8 Tips for Changing Culture in the Federal Government](https://www.govloop.com/community/blog/8-tips-culture-change/)," _GovLoop_, March 12, 2015.
-* Long, Vincent, "[Turning the Local Government Ship Starboard](https://cms.leoncountyfl.gov/Portals/0/county_admin/Published%20Articles/PMStarboardArticleVL.pdf)," _ICMA-Public Management_, January/February 2014.
-* Tharp, Bruce M., "[Four Organizational Culture Types](http://www.canfieldco.com/uploads/Four_Organizational_Culture_Types.pdf)," _Haworth_, April 2009.
+* Long, Vincent, "[Turning the Local Government Ship Starboard](https://icma.org/articles/pm-magazine/turning-local-government-ship-starboard)," _ICMA-Public Management_, January/February 2014.
+* Tharp, Bruce M., "[Four Organizational Culture Types](https://www.haworth.com/na/en/knowledge/research/organizational-culture.html)," _Haworth_, April 2009.
 * Davenport, Thomas H., "[Keeping Up with Your Quants](https://hbr.org/2013/07/keep-up-with-your-quants)," _Harvard Business Review_, July-August 2013.
